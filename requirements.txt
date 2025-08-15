@@ -1,0 +1,16 @@
+flask
+pandas
+joblib
+scikit-learn
+plotly
+dash
+sqlite3
+google-generativeai
+python-dotenv
+numpy
+datetime
+crewai
+dotenv
+google-generativeai
+dash_table
+dash_bootstrap_components
